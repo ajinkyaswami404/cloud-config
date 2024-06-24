@@ -2,7 +2,7 @@ build:
   version: "1.10"
 
 cards:
-  message: "Welcome to aj bank PRODUCTION Details REST APIs"
+  message: "Welcome to aj bank PROD Details REST APIs"
   contactDetails:
     name: "po po PRODUCT OWNER"
     email: "po@gmail.com"
