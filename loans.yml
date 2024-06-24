@@ -1,0 +1,11 @@
+build:
+  version: "1.9"
+
+loans:
+  message: "Welcome to aj bank loan details APIs"
+  contactDetails:
+    name: "aj sw Developer"
+    email: "ajswdev@gmail.com"
+  onCallSupport:
+    - (111)454-8574
+    - (111)556-9137

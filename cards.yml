@@ -1,0 +1,11 @@
+build:
+  version: "1.1.1"
+
+cards:
+  message: "Welcome to aj bank cards related information local developer APIs"
+  contactDetails:
+    name: "Aj Sw Developer"
+    email: "ajsw@gmail.com"
+  onCallSupport:
+    - (333)124-8782
+    - (333)442-9874

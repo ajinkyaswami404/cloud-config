@@ -1,0 +1,11 @@
+build:
+  version: "1.11"
+
+loans:
+  message: "welcome to aj bank cards QA related information REST APIs"
+  contactDetails:
+    name: "cards qa QA LEAD"
+    email: "cardsqa@gmail.com"
+  onCallSupport:
+    - (999)741-2580
+    - (999)145-3201

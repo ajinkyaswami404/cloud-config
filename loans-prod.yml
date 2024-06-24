@@ -1,0 +1,11 @@
+build:
+  version: "1.10"
+
+cards:
+  message: "Welcome to aj bank PRODUCTION Details REST APIs"
+  contactDetails:
+    name: "po po PRODUCT OWNER"
+    email: "po@gmail.com"
+  onCallSupport:
+    - (787)414-6987
+    - (787)241-3698

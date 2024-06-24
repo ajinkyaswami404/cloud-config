@@ -1,0 +1,11 @@
+build:
+  version: "1.4"
+
+cards:
+  message: "Welcome to aj bank cards related information PROD APIs"
+  contactDetails:
+    name: "aaa bbb Production Owner"
+    email: "aabb@gmail.com"
+  onCallSupport:
+    -(777)457-8574
+    -(777)557-4758
