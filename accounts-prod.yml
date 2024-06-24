@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to aj bank accounts related production APIs"
   contactDetails:
     name: "xyz - Product Owner"
-    email: "xyz@prod.com"
+    email: "{cipher}275df6b448f29947215a7b97d40ef4ec8981f599d4b30f84c9420c50f7c2635b"
   onCallSupport:
     -(222)570-1234
     -(222)458-1345
