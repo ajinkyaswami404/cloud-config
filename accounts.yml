@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to aj bank accounts related local APIs"
+  message: "Welcome to aj bank accounts related docker APIs"
   contactDetails:
     name: "Ajinkya Swami - Developer"
     email: "aj@java.com"
