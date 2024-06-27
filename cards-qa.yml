@@ -2,7 +2,7 @@ build:
   version: "1.5"
 
 cards:
-  message: "Welcome to aj bank cards related information docker qa APIs"
+  message: "Welcome to aj bank cards related information docker APIs"
   contactDetails:
     name: "pqr stu QA Lead"
     email: "pqr@stu.com"
